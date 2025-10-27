@@ -1,0 +1,5 @@
+/node_modules
+.env
+/src/data/products.json
+/src/data/kaggle_products.csv
+/src/data/products_with_embeddings.json
